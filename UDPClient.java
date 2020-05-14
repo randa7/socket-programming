@@ -5,12 +5,7 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 
-/*
- * UDPClient.java
- * Copyright (C) 2016 Rizki Mufrizal <mufrizalrizki@gmail.com>
- *
- * Distributed under terms of the MIT license.
- */
+
 
 public class UDPClient {
 
